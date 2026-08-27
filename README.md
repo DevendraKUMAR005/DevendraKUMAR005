@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Artificial+Intelligence+Developer;Machine+Learning+Explorer;Building+Intelligent+Security+Solutions" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevendraKUMAR005&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
