@@ -195,7 +195,7 @@ Interested in collaborating on:
 <img src="https://img.shields.io/badge/GitHub-DevendraKUMAR005-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/devendrakumar">
+<a href="https://www.linkedin.com/in/devendra-kumar-bb3668299/">
 <img src="https://img.shields.io/badge/LinkedIn-Devendra%20Kumar-blue?style=for-the-badge&logo=linkedin">
 </a>
 
